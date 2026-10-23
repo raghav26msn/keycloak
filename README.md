@@ -9,3 +9,6 @@ This command will:
 - Create an initial administrator account.
 - Run Keycloak in development mode, suitable for local testing.
 For local development only, use a stronger password if the port is accessible to other machines. Don't use these credentials in production.
+
+Use below urlin browser to open keycloak.
+http://localhost:9191/admin/master/console/
