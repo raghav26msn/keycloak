@@ -1,6 +1,6 @@
 docker run -d `
   --name keycloak `
-  -p 8080:8080 `
+  -p 9191:8080 `
   -e KC_BOOTSTRAP_ADMIN_USERNAME=admin `
   -e KC_BOOTSTRAP_ADMIN_PASSWORD=admin123 `
   quay.io/keycloak/keycloak:latest `
